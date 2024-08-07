@@ -1,0 +1,19 @@
+{
+    "nome": "Alice",
+    "salario": 5500.00,
+    "nascimento": "01/01/1981",
+    "dependentes": [
+        {
+            "nome": "Bruno",
+            "nascimento": "02/02/2002"
+        },
+        {
+            "nome": "Clara",
+            "nascimento": "03/03/2003"
+        },
+        {
+            "nome": "Davi",
+            "nascimento": "04/04/2004"
+        }
+    ]
+}

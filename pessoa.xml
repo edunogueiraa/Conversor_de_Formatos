@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pessoa>
+  <nome>Alice</nome>
+  <salario>5500</salario>
+  <nascimento>01/01/1981</nascimento>
+  <dependentes>
+    <dependente>
+      <nome>Bruno</nome>
+      <nascimento>02/02/2002</nascimento>
+    </dependente>
+    <dependente>
+      <nome>Clara</nome>
+      <nascimento>03/03/2003</nascimento>
+    </dependente>
+    <dependente>
+      <nome>Davi</nome>
+      <nascimento>04/04/2004</nascimento>
+    </dependente>
+  </dependentes>
+</pessoa>
